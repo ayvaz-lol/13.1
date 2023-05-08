@@ -1,7 +1,8 @@
-# src/item.py
+# src / item.py
 
 class Item:
     # классовые атрибуты
+    all = None
     discount_level = 1.0
     all_items = []
 
